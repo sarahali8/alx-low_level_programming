@@ -1,10 +1,15 @@
 #include <stdio.h>
+
 /**
- * main A program that prints a line with puts function
- *Retrun: 0 (success)
+ * main - Entry point
+ *
+ * Descreption :A c program that prints a line with puts function
+ *
+ * Retrun: Always  0 (success)
  */
-int main (void)
+
+int main(void)
 {
-	puts("programing is like bullding a mulltilingual puzzle");
-	return (0);
+	puts("\"programing is like bullding a mulltilingual puzzle");
+	Return(0);
 }
