@@ -5,19 +5,20 @@
 /**
  *main - entry point
  *
- * Descrption: print the value of n status
- *             greater than, is zero and is not less than 6.  
+ * Descrption: print the value of n status greater than, 
  *
- * Return: 0 (success)*/
+ * is zero and is not less than 6.  
+ *
+ * Return: 0 (success)
+ */
 
 int main(void)
 {
 	int n, digit;
-
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
+	/* your code there */
 	digit = n % 10;
-
 	if (digit > 5)
 		printf("Last digit of %i is %i and is greater than 5\n", n. digit);
 	else if (digit == 0)
