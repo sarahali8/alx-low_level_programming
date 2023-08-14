@@ -4,7 +4,7 @@
 *
 *Descreption :A c program that prints a line with puts function
 *
-*Retrun: Always 0 (success)
+*retrun: Always 0 (success)
 */
 void main(void)
 {
