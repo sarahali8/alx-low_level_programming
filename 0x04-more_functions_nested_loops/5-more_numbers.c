@@ -2,8 +2,7 @@
 
 /**
  * print_numbers - print numbers from 0 to 14
- *
- * return void
+ * Return: void
  */
 
 void more_numbers(void)
