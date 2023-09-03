@@ -7,7 +7,7 @@
  * Returun: always 0 (success)
  */
 
-int main (int _attribute_argc , char *argv[])
+int main (int_attribute_((unused))argc , char *argv[])
 {
 	printf("%s\n", argv[0]);
 		return (0);
